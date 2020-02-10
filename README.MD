@@ -31,3 +31,4 @@ API документация:
 Получить всех литераторов - GET /api/literators/
 
 Получить информацию о конкретном литераторе - GET /api/literators/{ID}/
+![0724921529c74c883acb3c5389461c0b.png](https://picua.org/images/2020/02/10/0724921529c74c883acb3c5389461c0b.png)
